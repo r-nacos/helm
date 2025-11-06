@@ -3,6 +3,16 @@ entries:
   rnacos:
   - apiVersion: v2
     appVersion: 0.4.2
+    created: "2025-11-06T16:07:07.58510857Z"
+    description: A Helm chart for Kubernetes
+    digest: a0ec6eead9196e51a36bc591aa7a1bbbf564fd5008811fc057cf40f86ef0f0a7
+    name: rnacos
+    type: application
+    urls:
+    - https://github.com/r-nacos/helm/releases/download/rnacos-0.1.1/rnacos-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 0.4.2
     created: "2025-11-06T15:56:25.17035497Z"
     description: A Helm chart for Kubernetes
     digest: e8acf5169f896e8742b9491be7bf3a9da5ce0bad7417450d827ee592f7e97293
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/r-nacos/helm/releases/download/rnacos-0.1.0/rnacos-0.1.0.tgz
     version: 0.1.0
-generated: "2025-11-06T15:56:25.17036054Z"
+generated: "2025-11-06T16:07:07.585117156Z"
